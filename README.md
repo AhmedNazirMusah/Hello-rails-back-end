@@ -22,10 +22,10 @@
 - [📝 License](#license)
 
 
-# 📖Hello rails react<a name="about-project"></a>
+# 📖Hello rails Back End<a name="about-project"></a>
 
 
-The application generates a random greeting from Rails API.
+The API generates a random greeting to serve a front end app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -61,6 +61,8 @@ The application generates a random greeting from Rails API.
 
 - [Comming soon]()
 
+## LINK TO REACT APP
+- [LINK TO REACT APP](https://github.com/AhmedNazirMusah/hello-react-front-end)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -84,7 +86,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-   $ git clone https://github.com/AhmedNazirMusah/Hello-rails-react.git
+   $ git clone https://github.com/AhmedNazirMusah/Hello-rails-react-back-end.git
 
   rails db:create 
   rails db:migrate
@@ -105,8 +107,6 @@ To run the project locally, execute the following command:
 
 ```sh
   cd app-name
-  npm run start
-  npm run build
   rails s
 ```
 
@@ -131,7 +131,7 @@ To run the project locally, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AhmedNazirMusah/Hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/AhmedNazirMusah/Hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
